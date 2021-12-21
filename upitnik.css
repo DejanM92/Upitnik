@@ -1,0 +1,22 @@
+* {margin:0px; padding:0px;}
+
+#root {
+	margin:0 auto;
+	width:1000px;
+	height:1000px;
+	padding:50px 0px;
+	font-size:20px;
+}
+.questions {
+	/* border:1px solid black; */
+	width:800px;
+	float:left
+}
+
+
+#bottom {
+	float:left;
+	width:1000px;
+}
+
+
